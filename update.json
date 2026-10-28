@@ -1,9 +1,9 @@
 {
-  "enabled": false,
-  "package": "com.vlv.aravali.reels",
-  "current_version": "5.8.7",
+  "enabled": true,
+  "package": "MovieBox",
+  "current_version": "4.0.03.1020.03",
   "latest_version": "999.999",
-  "force_update": false,
+  "force_update": true,
   "logo_url": "",
   "headline": "🔥 New Update Available 🔥",
   "headline_color": "#000000",
